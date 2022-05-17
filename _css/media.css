@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'FonteLogo';
+    src: url(../_fonts/bubblegum-sans-regular.otf);
+}
+a#wpp{
+    font-family: 'FonteLogo', sans-serif;
+    font-size: 20pt;
+    color: red;  
+    text-shadow: 1px 1px 1px rgb(0,0,0,.6);
+}
+
+a#telegram{
+    font-family: 'FonteLogo', sans-serif;
+    font-size: 20pt;
+    color: red;
+    text-shadow: 1px 1px 1px rgb(0,0,0,.6);   
+}
+
+img#wpp{
+    left: 680px;
+    top: 665px;
+    width: 6%;
+   height: 9%;
+}
+
+img#telegram {
+    left: 680px;
+    top: 765px;
+    width: 6%;
+   height: 7%; 
+}
