@@ -20,10 +20,10 @@ body {
 /*cabeçalho do icone */
  header#cabecalho img#icone {
      position: absolute;
-     left: 1340px;
+     left: 1230px;
      top: 50px;
-     width: 5%;
-    height: 5%;
+     width: 8%;
+    height: 8%;
  }
 
  header#cabecalho {
@@ -47,14 +47,14 @@ nav#menu ul {
 
 nav#menu li {
     display: inline-block;
-    background-color: #dddddd;
+    background-color: #0025f7;
     padding: 10px;
     margin: 2px;
     transition: background-color 1s;
 }
 
 nav#menu li:hover{
-    background-color: #606060;
+    background-color: #ffffff73;
 }
 
 nav#menu h1 {
@@ -62,7 +62,7 @@ nav#menu h1 {
 }
 
 nav#menu a {
-    color: black;
+    color: rgba(148, 148, 148, 0.459);
     text-decoration: none;
 }
 
@@ -75,7 +75,7 @@ nav#menu a:hover{
     font-family: 'FonteLogo', sans-serif;
     font-size: 30pt;
     color: #0365e6;
-    text-shadow: 1px 1px 1px rgb(0,0,0,.6);
+    text-shadow: 1px 1px 1px rgb(255, 250, 250);
     padding: 0px;
     margin-bottom: 0px;
  }
@@ -163,7 +163,7 @@ nav#menu h1 {
 }
 
 nav#menu a {
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
